@@ -1,3 +1,2 @@
 This version 1 is a test version.
-
-A new line is added as well from local rep to test the conflict using git pull.
+A new line has been added to resolve the conflict after removing both conflicting lines.
