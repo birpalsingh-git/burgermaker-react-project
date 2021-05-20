@@ -1,1 +1,1 @@
-This is a new file made in the Git Hub on April 30th to test changes done on both remote rep and local rep and then apply git pull.
+Old line is deleted and new line is added to check git show-ref.
